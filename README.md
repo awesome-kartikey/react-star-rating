@@ -2,7 +2,7 @@
 
 A simple, reusable, and interactive star rating component built with React and Vite. Allows users to select a rating visually using stars.
 
-[Star Rating Component Demo](https://iamkartikey.vercel.app/project-screenshots/react-star-rating.png)
+![Star Rating Component Demo](https://iamkartikey.vercel.app/project-screenshots/react-star-rating.png)
 
 ## Features
 
